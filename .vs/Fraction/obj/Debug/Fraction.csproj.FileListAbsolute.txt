@@ -1,0 +1,10 @@
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\bin\Debug\Fraction.exe.config
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\bin\Debug\Fraction.exe
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\bin\Debug\Fraction.pdb
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.csprojAssemblyReference.cache
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.Properties.Resources.resources
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.csproj.GenerateResource.cache
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.exe
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.pdb
+D:\NMLT\CSharp\UI_Fraction\.vs\Fraction\obj\Debug\Fraction.Form1.resources
